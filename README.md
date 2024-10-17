@@ -34,8 +34,8 @@
 - **Geographical Insights**: Analysis of sales performance by city, state, and country, offering a view of market penetration.
 
 ## Files Included
--**Dataspark Report**: A Word document summarizing the insights from the project.
--**Power BI Dashboard**: The Power BI file showcasing visual insights derived from the analysis.
+- **Dataspark Report**: A Word document summarizing the insights from the project.
+- **Power BI Dashboard**: The Power BI file showcasing visual insights derived from the analysis.
 
 ## Conclusion
 Upon completion of the DataSpark project, Global Electronics will have access to a detailed EDA report featuring integrated datasets and actionable insights into customer demographics, purchasing behavior, and overall sales performance. These insights are designed to enhance marketing strategies, optimize inventory, and drive overall business growth, ultimately leading to increased customer satisfaction.
