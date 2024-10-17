@@ -1,11 +1,11 @@
 def main():
     data_paths = {
-        "Sales": "C:/Users/aashi/Downloads/Sales.csv",
-        "Customers": "C:/Users/aashi/Downloads/Customers.csv",
-        "Products": "C:/Users/aashi/Downloads/Products.csv",
-        "Exchange_Rates": "C:/Users/aashi/Downloads/Exchange_Rates.csv",
-        "Data_Dictionary": "C:/Users/aashi/Downloads/Data_Dictionary.csv",
-        "Stores": "C:/Users/aashi/Downloads/Stores.csv"
+        "Sales": "your_file_path",
+        "Customers":"your_file_path",
+        "Products": "your_file_path",
+        "Exchange_Rates": "your_file_path",
+        "Data_Dictionary": "your_file_path",
+        "Stores": "your_file_path"
     }
 
     data_frames = {}
