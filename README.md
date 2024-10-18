@@ -16,7 +16,7 @@
    - Derived insights into customer behavior and identified key trends in sales and product performance.
 
 3. **Visual Insights**
-   - Integrated cleaned data with Power BI and Tableau for dynamic visual representation.
+   - Integrated cleaned data with Power BI for dynamic visual representation.
    - Created interactive dashboards that provide a comprehensive view of critical business metrics.
    - Enabled stakeholders to explore trends and patterns efficiently.
 
